@@ -1,4 +1,6 @@
 <?php
+
+namespace Lesson5;
 abstract class Main
 {
     protected $property1;

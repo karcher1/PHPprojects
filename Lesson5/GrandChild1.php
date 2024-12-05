@@ -1,4 +1,7 @@
 <?php
+
+namespace Lesson5;
+
 require_once 'ChildClass2.php';
 
 class GrandChild1 extends ChildClass2
