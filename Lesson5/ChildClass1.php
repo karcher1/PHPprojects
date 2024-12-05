@@ -1,4 +1,7 @@
 <?php
+
+namespace Lesson5;
+
 require_once 'Main.php';
 
 final class ChildClass1 extends Main
